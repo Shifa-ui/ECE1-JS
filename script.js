@@ -36,5 +36,30 @@
   // }else{
   //   document.write("you are a minor");
   // }
-  // var grade = 'A';
-  // document.write("entering switch block")
+  //  var grade = 'A';
+  //  switch (grade){
+  //   case 'A': document.write("<br>good job</br>");
+  //   break;
+    
+  //   case 'B': document.write("<br>")
+  //  }
+  // function myFunction(){
+  //   alert("hello world!");
+  // }
+  // function sayHello(name,age){
+  //   document.write( name + " is "+ age + " years old ");
+  // }
+  // var add2 = (a,b)=> {
+  //   console.log(a+b);
+  // }
+  var person = {
+    name : "John mac",
+    age : 30,
+    isMarried : true,
+    addrress : {
+      street : 'vinay nagar',
+      flatNO:201
+    }
+
+  };
+  console.log(person);
