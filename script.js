@@ -52,14 +52,17 @@
   // var add2 = (a,b)=> {
   //   console.log(a+b);
   // }
-  var person = {
-    name : "John mac",
-    age : 30,
-    isMarried : true,
-    addrress : {
-      street : 'vinay nagar',
-      flatNO:201
-    }
+  // var person = {
+  //   name : "John mac",
+  //   age : 30,
+  //   isMarried : true,
+  //   addrress : {
+  //     street : 'vinay nagar',
+  //     flatNO:201
+  //   }
 
-  };
-  console.log(person);
+  // };
+  // console.log(person);
+  var myinfo = new Array();
+  var myinfo1 = Array();
+  console.log(myinfo, myinfo1);
